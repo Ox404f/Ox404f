@@ -22,6 +22,9 @@
 <a href="https://www.youtube.com/@ox404f">
   <img src="https://img.shields.io/badge/YouTube-%40ox404f-c4c4c4?style=for-the-badge&logo=youtube&logoColor=c4c4c4&labelColor=070707" alt="YouTube @ox404f"/>
 </a>
+<a href="https://www.tiktok.com/@ox404f">
+  <img src="https://img.shields.io/badge/TikTok-%40ox404f-c4c4c4?style=for-the-badge&logo=tiktok&logoColor=c4c4c4&labelColor=070707" alt="TikTok @ox404f"/>
+</a>
 <a href="https://x.com/Ox404f">
   <img src="https://img.shields.io/badge/X-%40Ox404f-c4c4c4?style=for-the-badge&logo=x&logoColor=c4c4c4&labelColor=070707" alt="X @Ox404f"/>
 </a>
@@ -42,7 +45,7 @@
 
 Développeur full-stack et **créateur indépendant** basé en France. Je construis mes propres produits de bout en bout - du **jeu PC & mobile** à son **backend autoritaire**, en passant par les **launchers desktop**, les **interfaces web** et l'**infrastructure de production**.
 
-J'utilise un workflow **assisté par l'IA** pour itérer rapidement tout en gardant un contrôle strict sur l'architecture, la performance et la sécurité (**OWASP Top 10**, cryptographie, anti-triche). Je documente aussi l'avancement de mes projets et les coulisses techniques sur **YouTube** et **X**.
+J'utilise un workflow **assisté par l'IA** pour itérer rapidement tout en gardant un contrôle strict sur l'architecture, la performance et la sécurité (**OWASP Top 10**, cryptographie, anti-triche). Je documente aussi l'avancement de mes projets et les coulisses techniques sur **YouTube**, **TikTok** et **X**.
 
 <table>
   <tr>
@@ -295,6 +298,10 @@ Retrouve mes devlogs, mises à jour et nouveaux projets sur mes réseaux :
 
 <a href="https://www.youtube.com/@ox404f">
   <img src="https://img.shields.io/badge/YouTube-%40ox404f-ffffff?style=for-the-badge&logo=youtube&logoColor=070707&labelColor=070707" alt="YouTube @ox404f"/>
+</a>
+&nbsp;
+<a href="https://www.tiktok.com/@ox404f">
+  <img src="https://img.shields.io/badge/TikTok-%40ox404f-c4c4c4?style=for-the-badge&logo=tiktok&logoColor=c4c4c4&labelColor=070707" alt="TikTok @ox404f"/>
 </a>
 &nbsp;
 <a href="https://x.com/Ox404f">
