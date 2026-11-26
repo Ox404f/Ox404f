@@ -277,7 +277,7 @@ J'utilise un workflow **assisté par l'IA** pour itérer rapidement tout en gard
 <br/><br/>
 
 <!-- 🐍 Généré automatiquement par .github/workflows/snake.yml sur la branche output -->
-<img src="https://raw.githubusercontent.com/Ox404f/Ox404f/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animation Snake des contributions GitHub"/>
+<img src="https://raw.githubusercontent.com/Ox404f/Ox404f/refs/heads/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animation Snake des contributions GitHub"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:070707,50:c4c4c4,100:070707&height=1" width="100%" alt=""/>
 
